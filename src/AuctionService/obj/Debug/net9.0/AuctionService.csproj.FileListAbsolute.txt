@@ -123,3 +123,5 @@ D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\
 D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.Abstractions.dll
 D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
 D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\RabbitMQ.Client.dll
+D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\Contracts.dll
+D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\Contracts.pdb
