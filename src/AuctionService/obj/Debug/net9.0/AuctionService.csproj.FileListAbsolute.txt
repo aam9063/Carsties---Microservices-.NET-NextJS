@@ -119,3 +119,7 @@ D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\
 D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.csproj.AssemblyReference.cache
 D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionS.72D7E915.Up2Date
 D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.sourcelink.json
+D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.dll
+D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.Abstractions.dll
+D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+D:\2_DAW\Proyectos Personales\microservicios_dotnet\Carsties\src\AuctionService\bin\Debug\net9.0\RabbitMQ.Client.dll
